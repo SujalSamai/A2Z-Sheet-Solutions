@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 //https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 import java.util.Arrays;
 

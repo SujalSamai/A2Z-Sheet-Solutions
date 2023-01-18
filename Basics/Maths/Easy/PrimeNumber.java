@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 
 public class PrimeNumber {
     static boolean isPrime(int N) {

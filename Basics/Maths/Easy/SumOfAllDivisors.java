@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 
 public class SumOfAllDivisors {
     public static void main(String[] args) {

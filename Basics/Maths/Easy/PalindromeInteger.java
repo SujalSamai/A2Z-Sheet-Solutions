@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 //https://leetcode.com/problems/palindrome-number/
 public class PalindromeInteger {
     public static void main(String[] args) {

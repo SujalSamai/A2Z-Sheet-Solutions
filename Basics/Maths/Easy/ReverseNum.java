@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 //https://leetcode.com/problems/reverse-integer/
 public class ReverseNum {
     public static void main(String[] args) {

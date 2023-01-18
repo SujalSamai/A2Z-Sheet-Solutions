@@ -1,4 +1,4 @@
-package Basics.Maths;
+package Basics.Maths.Easy;
 //https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1
 public class ArmstrongNum {
     public static void main(String[] args) {
