@@ -6,6 +6,10 @@ public class Deletion {
       ListNode next;
       ListNode(int x) { val = x; }
     }
+        public void deleteNode(ListNode node) {
+        node.val=node.next.val;
+        node.next= node.next.next;
+    }
     static class Node {
         int data;
         Node next;
@@ -14,10 +18,7 @@ public class Deletion {
             next = null;
         }
     }
-//    public void deleteNode(ListNode node) {
-//        node.val=node.next.val;
-//        node.next= node.next.next;
-//    }
+
     Node deleteNode(Node head, int x) {
         if(head==null || head.next==null) return null;
         Node temp=head;
